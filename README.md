@@ -3,7 +3,7 @@ Base project using Netflix Zuul with Netflix Eureka Server. Zuul works as a Prox
 
 Make sure you set your Eureka address in the application.yml
 
-
+## application.yml
 ```yml
 
 #Server Port
